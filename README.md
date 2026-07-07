@@ -40,18 +40,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**laravel-zap**](https://github.com/mohamadaliqurbani/laravel-zap) | Lightning-fast schedule management for Laravel | Laravel |
-| [**Stock-Mangement-System**](https://github.com/mohamadaliqurbani/Stock-Mangement-System-demo) | Stock management system demo with full features | PHP |
-| [**vue-resuable-carousel**](https://github.com/mohamadaliqurbani/vue-resuable-carousel) | Simple reusable Vue.js 3 carousel with Swiper | Vue.js, HTML |
-| [**CustomeSlug**](https://github.com/mohamadaliqurbani/CustomeSlug) | Custom slug generator package | PHP |
-| [**phpScrap**](https://github.com/mohamadaliqurbani/phpScrap) | PHP web scraping utility | PHP |
-
----
-
 
 
 <p align="center">
