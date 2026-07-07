@@ -52,39 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadaliqurbani&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadaliqurbani&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamadaliqurbani&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/mohamadaliqurbani">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
 
 <p align="center">
   <i>💬 "Code is like humor. When you have to explain it, it's bad."</i>
